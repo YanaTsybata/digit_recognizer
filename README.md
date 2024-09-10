@@ -2,7 +2,7 @@ Handwritten Digit Recognition using MNIST Dataset
 ===========
 ____
 ### Description:
-This project focuses on building a model to recognize handwritten digits using the well-known MNIST dataset
+This project focuses on building a model to recognize handwritten digits using the well-known MNIST dataset.
 
 ### Before you start
 you will need the following libraries:
